@@ -4,9 +4,13 @@ Project Overview
 This project demonstrates the fundamental principles of digital output control and current regulation using an Arduino microcontroller. The primary objective is to implement a stable pulse-width modulation to drive an optoelectronic component (LED). This study serves as an initial step into bio-instrumentation and hardware-biological system integration.
 
 Technical Components
+
 Microcontroller: Arduino Uno Rev3
+
 Light Emitting Diode (LED): Standard 5mm Red LED
+
 Resistor: 220-ohm (Current regulation)
+
 Breadboard & Jumper Wires
 
 Circuit Demonstration
